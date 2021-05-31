@@ -62,7 +62,7 @@
   </head>
   <body>
     
-    <a href ="http://a0528179.xsph.ru/diplom.html">Выйти из личного кабинета</a>
+    <a href ="http://a0528179.xsph.ru/MainPage.html">Выйти из личного кабинета</a>
 
     <div class="container lk">
 
