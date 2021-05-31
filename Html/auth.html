@@ -88,7 +88,7 @@
     <script>
 
             async function sendFormUser(form) {
-            let response = await fetch("PHP/auth_obr.php", {
+            let response = await fetch("php/auth_obr.php", {
                 method: 'POST', body: new FormData(form)
             });
             let result = await response.text();
